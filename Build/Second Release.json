@@ -1,0 +1,13 @@
+{
+"companyName": "OgreWare",
+"productName": "Calling All Heroes!",
+"dataUrl": "Second Release.data.unityweb",
+"asmCodeUrl": "Second Release.asm.code.unityweb",
+"asmMemoryUrl": "Second Release.asm.memory.unityweb",
+"asmFrameworkUrl": "Second Release.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
